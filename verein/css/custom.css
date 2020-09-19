@@ -1,0 +1,27 @@
+a
+{
+  color: darkblue;
+}
+
+a:hover
+{
+  color: black;
+}
+
+.abstand_icon /*Klassen beginnen in CSS mit einem Punkt .*/
+{
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.red
+{
+  color: red;
+  margin-right: 20px;
+}
+
+.green
+{
+  color: green;
+  margin-right: 20px;
+}
